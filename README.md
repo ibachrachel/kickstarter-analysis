@@ -14,10 +14,17 @@ Each campaign has a specific goal that represents how much money they would have
 Challenges and Difficulties Encountered: There were specific issues with the production of the two outcome graphs for the launch date and the goal amount. For the launch date analysis, row labels were not displaying the month and instead were only displaying the quarters of the year. The quarters had to be deleted and then the row filter had to be used to select only the months. This rendered the needed format to create the line graph. The only other serious difficulty was creating the line graph based on the goal amount because the COUNTIFS formula was difficult to use when doing the goal ranges that required the entry of two goal amounts.
 ## Results
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
 The Outcomes based on Launch Date line graph allows for the conclusion that the most successful month for theater Kickstarters is within the month of May, which is followed by a steady decline. A person hoping to launch a successful Kickstarter should aim to launch it in May and should avoid launching any campaigns in the last 3 months of the year. The worst month to launch a campaign would be December because successful campaigns drop and almost equal the amount of failed ones. 
+
 **- What can you conclude about the Outcomes based on Goals?**
+
 It is extremely difficult to come to a conclusion based on the line graph that shows the Outcomes based on Goals. If the sample  size was more standard, then a more concrete conclusion could be drawn. Although it lacks a clear linear nature, it possible to see that goals that are between $1,000 to $9,999 will lead to the highest success rate. 
+
 **- What are some limitations of this dataset?**
+
 The biggest limitation of the dataset is that the only information that is available is that of monetary value. The data is only representing liquid donations, but cannot account for the hours work that might have been donated to the campaign or any non-liquid donations. Since there is only money to work off of, conclusions about successfulness of a campaign might not be reliable. Another limitation presented itself within the goal amount analysis of the outcomes. In this analysis, the sample size did not stay standard enough to make a strong conclusion. Instead, there is an extremely low sample size for the campaigns that have a goal amount of $50,000 or higher. There is so much variation between goal amounts once it surpasses $50,000 that it doesn't allow for a strong relation to be drawn. 
+
 **- What are some other possible tables and/or graphs that we could create?**
+
 To analyze the data further, a graph that analyzes how Theater Kickstarters perform in different countries. This would allow for the playwright to understand which country would increase her successfulness. A stacking bar chart could be used to cross reference the failures and successes between different countries and which categories/subcategories. Comparing the outcomes based on whether or not a project was spotlighted also might allow for the conclusion on how much advertising affects the success rate. The usefulness of the data is tied to how it can benefit the consumer, so any table or graph that can increase their chance of being significantly more successful should be included. 
